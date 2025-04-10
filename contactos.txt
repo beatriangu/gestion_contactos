@@ -1,0 +1,10 @@
+Bea,610123456,bea.lamiquiz@example.com
+Iñigo,610234567,inigo.perez@example.com
+Lucía,610345678,lucia.garcia@example.com
+Mario,610456789,mario.fernandez@example.com
+Sofía,610567890,sofia.lopez@example.com
+Álvaro,610678901,alvaro.martinez@example.com
+Carmen,610789012,carmen.ruiz@example.com
+Jorge,610890123,jorge.sanchez@example.com
+Paula,610901234,paula.diaz@example.com
+Nerea,611012345,nerea.moreno@example.com
